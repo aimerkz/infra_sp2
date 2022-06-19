@@ -11,7 +11,7 @@
  - Клонируйте репозиторий на свою локальную машину:
 ```sh
 https://github.com/aimerkz/infra_sp2.git
-сcd infra
+cd infra
 ```
  - Cоздайте в папке /infra файл .env и заполните его переменными окружения:
 ```sh
